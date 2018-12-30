@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] People can split the total into 1 - 10 persons
+- [x] People can split the total into 1 - 10 persons
 
 ## Video Walkthrough 
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Because I'm not new in the programming, it isn't quite hard for me to understand the Swift languange. The problems that I encountered during making this program is sometimes it's hard for me to find the error while making this app. Also, sometimes it is making me confuse for looking the correct function that I should use in the Swift.
+Because I'm not new in the programming, it isn't quite hard for me to understand the Swift languange. The problems that I encountered during making this program is sometimes it's hard for me to find the error while making this app. Also, sometimes it is making me confuse for looking the right function that I should write and use in the Swift.
 
 ## License
 
